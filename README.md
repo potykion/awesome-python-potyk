@@ -23,6 +23,7 @@ Tools that convert Python data types to text types like JSON, XML, etc.
 - [cattrs](https://catt.rs/en/stable/) - serialization for attrs-classes
 - [pydantic](https://docs.pydantic.dev/latest/) - builtin serialization
 - [xmltodict](https://github.com/martinblech/xmltodict) - convert XML to Python dict
+- [lxml](https://lxml.de/) - low-level xml parsing
 
 ## Linting 
 
@@ -45,9 +46,32 @@ Favourite Flask plugins
 - [flask-babel](https://python-babel.github.io/flask-babel/) - i18n (localization) for flask based on Babel lib
 - [flask-cors](https://flask-cors.readthedocs.io/en/latest/) - CORS for flask (nuff said)
 - [flask-limiter](https://flask-limiter.readthedocs.io/en/stable/) - rate limiting for flask
+- [flask-login](https://flask-login.readthedocs.io/en/latest/) - lib for server side authentication (like with sessions)
+- [flasgger](https://github.com/flasgger/flasgger) - best tool to generate Swagger documentaion for Flask
 
 ## Networking (HTTP clients)
 
 - [requests](https://requests.readthedocs.io/en/latest/) - most popular Python HTTP client
 - [httpx](https://www.python-httpx.org/) - modern Python HTTP client with async support
 
+## Security
+
+- [pyjwt](https://pyjwt.readthedocs.io/en/stable/) - generate and decode JWT in Python
+
+## Utils 
+
+- [more-itertools](https://pypi.org/project/more-itertools/) - itertools extensions - bunch of reusable functions for collection manipulations
+- [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
+- [pyhumps](https://pypi.org/project/pyhumps/) - converts from different cases like from camelCase to snake_case and vice versa
+- [Unidecode](https://pypi.org/project/Unidecode/) - transliterate strings from other languages to English
+
+## Work with files 
+
+Tools for working with files like Excel, PDF, Word, images
+
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - best lib to work with Excel files
+- [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
+
+## Other 
+
+- [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
