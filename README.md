@@ -1,4 +1,4 @@
-# awesome-python-potyk
+# potyk-awesome-python
 
 There are a lot of similar lists, but I want to create my own list to remember which tools I have used or am interested in.
 
