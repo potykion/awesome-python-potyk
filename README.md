@@ -16,26 +16,12 @@ Tools to write classes without boilerplate (like magic methods for hashing, comp
 - [attrs](https://www.attrs.org/en/stable/) - Python 2 compatible dataclasses
 - [pydantic](https://docs.pydantic.dev/latest/) - best lib to write dataclasses which automatically converts raw data to typed data (like converting strings to integers)
 
-## Serialization / Parsing
+## Serialization
 
 Tools that convert Python data types to text types like JSON, XML, etc.
 
-### JSON
-
 - [cattrs](https://catt.rs/en/stable/) - serialization for attrs-classes
 - [pydantic](https://docs.pydantic.dev/latest/) - builtin serialization
-
-### XML
-
-- [xmltodict](https://github.com/martinblech/xmltodict) - convert XML to Python dict
-- [lxml](https://lxml.de/) - low-level xml parsing
-
-### Dates
-
-- [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
-
-
-
 
 ## Web Frameworks
 
@@ -54,6 +40,12 @@ Favourite Flask plugins
 - [flask-limiter](https://flask-limiter.readthedocs.io/en/stable/) - rate limiting for flask
 - [flask-login](https://flask-login.readthedocs.io/en/latest/) - lib for server side authentication (like with sessions)
 - [flasgger](https://github.com/flasgger/flasgger) - best tool to generate Swagger documentaion for Flask
+
+### Django 
+
+- [django-cors-headers](https://pypi.org/project/django-cors-headers/) - CORS for Django
+- [django-dburl](https://pypi.org/project/dj-database-url/) - parse database settings from database url (useful along with .env)
+- [django-ninja](https://django-ninja.rest-framework.com/) - pydantic & swagger integration for django
 
 ## Networking (HTTP clients)
 
@@ -77,17 +69,42 @@ Favourite Flask plugins
 
 Tools for working with files like Excel, PDF, Word, images
 
-- [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - best lib to work with Excel files
-- [python-docx](https://python-docx.readthedocs.io/en/latest/) - lib for working with Word docs
-- [docxtpl](https://docxtpl.readthedocs.io/en/latest/) - allows to write Jinja syntax in Word docs
-- [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
 - [potyk-doc](https://github.com/potykion/potyk-doc) - Everything you need to work with documents in Python [my own lib 🤓]
 - [docci](https://github.com/potykion/docci) - yet another lib to work with docs [my own lib 🤓]
+
+
+### Excel (.xlsx)
+
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - best lib to work with Excel files
 - [jinja2xlsx](https://github.com/potykion/jinja2xlsx) - Create xlsx-tables from html-tables [my own lib 🤓]
+- 
+### Word (.docx)
+
+- [python-docx](https://python-docx.readthedocs.io/en/latest/) - lib for working with Word docs
+- [docxtpl](https://docxtpl.readthedocs.io/en/latest/) - allows to write Jinja syntax in Word docs
+
+### PDF
+
+- [pdfkit](https://pypi.org/project/pdfkit/) - renders pdf from html using wkhtmltopdf
+- [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/) - parse pdf info like pages amount
+
+### Images
+
+- [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
+
+## Parsing
+
+- [requests-html](https://requests.readthedocs.io/projects/requests-html/en/latest/) - lib for HTML parsing based on requests
+- [parse](https://pypi.org/project/parse/) - parse strings like with regex but better
+- [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
+- [phonenumbers](https://pypi.org/project/phonenumbers/) - phone parsing
+- [xmltodict](https://github.com/martinblech/xmltodict) - convert XML to Python dict
+- [lxml](https://lxml.de/) - low-level xml parsing
 
 ## Other 
 
 - [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
+- [tqdm](https://github.com/tqdm/tqdm) - beautiful progressbar
 
 ## SDK / API wrappers
 
@@ -105,7 +122,8 @@ Tools that analyze and check your code
 ## Testing
 
 - [pytest](https://docs.pytest.org/en/latest/) - best test runner and framework with variety plugins
-- [factoryboy](https://factoryboy.readthedocs.io/en/stable/) - easy complex object creation for tests
+- [faker](https://faker.readthedocs.io/en/master/) - fake data generator
+- [factoryboy](https://factoryboy.readthedocs.io/en/stable/) - easy complex object creation for tests with faker integration
 - [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - useful test matchers like dict has entities
 
 ### Mocking
