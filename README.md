@@ -35,13 +35,7 @@ Tools that convert Python data types to text types like JSON, XML, etc.
 - [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
 
 
-## Linting 
 
-Tools that analyze and check your code
-
-- [mypy](https://mypy-lang.org/) - most popular type annotated Python code checker
-- [ruff](https://beta.ruff.rs/docs/) - fastest linter that checks things like unused imports, pep8 violations
-- [black](https://black.readthedocs.io/en/stable/) - best code formatter
 
 ## Web Frameworks
 
@@ -69,6 +63,7 @@ Favourite Flask plugins
 ## Security
 
 - [pyjwt](https://pyjwt.readthedocs.io/en/stable/) - generate and decode JWT in Python
+- [python-dotenv](https://saurabh-kumar.com/python-dotenv/) - .env file parsing
 
 ## Utils 
 
@@ -89,4 +84,37 @@ Tools for working with files like Excel, PDF, Word, images
 ## Other 
 
 - [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
-- [python-dotenv](https://saurabh-kumar.com/python-dotenv/) - .env file parsing
+
+## Linting 
+
+Tools that analyze and check your code
+
+- [mypy](https://mypy-lang.org/) - most popular type annotated Python code checker
+- [ruff](https://beta.ruff.rs/docs/) - fastest linter that checks things like unused imports, pep8 violations
+- [black](https://black.readthedocs.io/en/stable/) - best code formatter
+- [import-linter](https://import-linter.readthedocs.io/en/stable/) - linter to check import order (like when using layerered architecture this tool checks that lower layers can't import upper layers)
+
+## Testing
+
+- [pytest](https://docs.pytest.org/en/latest/) - best test runner and framework with variety plugins
+- [factoryboy](https://factoryboy.readthedocs.io/en/stable/) - easy complex object creation for tests
+- [PyHamcrest](https://github.com/hamcrest/PyHamcrest) - useful test matchers like dict has entities
+
+### Mocking
+
+- [mock](https://docs.python.org/3/library/unittest.mock.html) - python builtin mocking
+- [freezegun](https://github.com/spulec/freezegun) - 
+
+### pytest
+
+Favourite pytest plugins
+
+- [pytest_factoryboy](https://pytest-factoryboy.readthedocs.io/en/stable/) - factoryboy integration
+- [pytest-snapshot](https://pypi.org/project/pytest-snapshot/) - snapshot testing useful when need to compare large files in assertions (supports py2)
+- [syrupy](https://github.com/tophat/syrupy) - better snapshot testing lib
+- [pytest-env](https://pypi.org/project/pytest-env/) - .env parsing before test run
+- [pytest-flask](https://pypi.org/project/pytest-flask/), [pytest-django](https://pytest-django.readthedocs.io/en/latest/) - flask / django integrations
+
+## Documentation
+
+- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) - best markdown documentation tool 
