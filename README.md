@@ -8,6 +8,8 @@ There are a lot of similar lists, but I want to create my own list to remember w
 - https://github.com/uhub/awesome-python
 - https://github.com/dylanhogg/awesome-python
 
+---
+
 ## Dataclasses 
 
 Tools to write classes without boilerplate (like magic methods for hashing, comparison)
@@ -22,6 +24,8 @@ Tools that convert Python data types to text types like JSON, XML, etc.
 
 - [cattrs](https://catt.rs/en/stable/) - serialization for attrs-classes
 - [pydantic](https://docs.pydantic.dev/latest/) - builtin serialization
+
+---
 
 ## Web Frameworks
 
@@ -47,15 +51,24 @@ Favourite Flask plugins
 - [django-dburl](https://pypi.org/project/dj-database-url/) - parse database settings from database url (useful along with .env)
 - [django-ninja](https://django-ninja.rest-framework.com/) - pydantic & swagger integration for django
 
+---
+
+## Databases
+
+- [peewee](https://github.com/coleifer/peewee) - simplest framework agnostic orm
+
+---
+
 ## Networking (HTTP clients)
 
 - [requests](https://requests.readthedocs.io/en/latest/) - most popular Python HTTP client
 - [httpx](https://www.python-httpx.org/) - modern Python HTTP client with async support
 
-## Security
+## Security & DevOps
 
 - [pyjwt](https://pyjwt.readthedocs.io/en/stable/) - generate and decode JWT in Python
 - [python-dotenv](https://saurabh-kumar.com/python-dotenv/) - .env file parsing
+- [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
 
 ## Utils 
 
@@ -64,6 +77,8 @@ Favourite Flask plugins
 - [pyhumps](https://pypi.org/project/pyhumps/) - converts from different cases like from camelCase to snake_case and vice versa
 - [Unidecode](https://pypi.org/project/Unidecode/) - transliterate strings from other languages to English
 - [potyk-lib](https://github.com/potykion/potyk-lib) - Everyday dev utils like date utils, FP utils, collection utils and so on [my own lib 🤓]
+
+---
 
 ## Work with files 
 
@@ -92,9 +107,10 @@ Tools for working with files like Excel, PDF, Word, images
 
 - [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
 
-## Parsing
+## Parsing & Scrapping
 
 - [requests-html](https://requests.readthedocs.io/projects/requests-html/en/latest/) - lib for HTML parsing based on requests
+- [helium](https://github.com/mherrmann/selenium-python-helium) - easier Selenium wrapper which automates browser for testing and scrapping
 - [parse](https://pypi.org/project/parse/) - parse strings like with regex but better
 - [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
 - [phonenumbers](https://pypi.org/project/phonenumbers/) - phone parsing
@@ -103,12 +119,13 @@ Tools for working with files like Excel, PDF, Word, images
 
 ## Other 
 
-- [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
 - [tqdm](https://github.com/tqdm/tqdm) - beautiful progressbar
 
 ## SDK / API wrappers
 
 - [potyk-yc](https://github.com/potykion/potyk-yc) - utils and typings for Yandex Cloud [my own lib 🤓]
+
+---
 
 ## Linting 
 
@@ -143,4 +160,32 @@ Favourite pytest plugins
 
 ## Documentation
 
-- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) - best markdown documentation tool 
+- [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) - best markdown documentation tool
+
+---
+
+## Starred
+
+Haven't tried, but intrested
+
+### AI
+
+- [sweep](https://github.com/sweepai/sweep) - creates pull requests from task description
+- [Fooocus](https://github.com/lllyasviel/Fooocus) - free image generation
+- [marvin](https://github.com/PrefectHQ/marvin) - define pydantic class, then ai will fill it e.g. parse data
+
+### Parsing & Scrapping
+
+- [pyleniumio](https://github.com/ElSnoMan/pyleniumio) - Bring the best of Selenium and Cypress into a single Python package
+
+### Security & DevOps
+
+- [dynaconf](https://github.com/dynaconf/dynaconf) - configuration framework seems more powerful than .env
+
+### Databases
+
+- [beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB ([bunnet](https://github.com/roman-right/bunnet) - sync version)
+
+### Frontend 
+
+- [pyscript](https://github.com/pyscript/pyscript) - use python in html like javasript
