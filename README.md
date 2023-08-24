@@ -71,6 +71,7 @@ Favourite Flask plugins
 - [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
 - [pyhumps](https://pypi.org/project/pyhumps/) - converts from different cases like from camelCase to snake_case and vice versa
 - [Unidecode](https://pypi.org/project/Unidecode/) - transliterate strings from other languages to English
+- [potyk-lib](https://github.com/potykion/potyk-lib) - Everyday dev utils like date utils, FP utils, collection utils and so on [my own lib 🤓]
 
 ## Work with files 
 
@@ -80,10 +81,17 @@ Tools for working with files like Excel, PDF, Word, images
 - [python-docx](https://python-docx.readthedocs.io/en/latest/) - lib for working with Word docs
 - [docxtpl](https://docxtpl.readthedocs.io/en/latest/) - allows to write Jinja syntax in Word docs
 - [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
+- [potyk-doc](https://github.com/potykion/potyk-doc) - Everything you need to work with documents in Python [my own lib 🤓]
+- [docci](https://github.com/potykion/docci) - yet another lib to work with docs [my own lib 🤓]
+- [jinja2xlsx](https://github.com/potykion/jinja2xlsx) - Create xlsx-tables from html-tables [my own lib 🤓]
 
 ## Other 
 
 - [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
+
+## SDK / API wrappers
+
+- [potyk-yc](https://github.com/potykion/potyk-yc) - utils and typings for Yandex Cloud [my own lib 🤓]
 
 ## Linting 
 
