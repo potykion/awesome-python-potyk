@@ -16,14 +16,24 @@ Tools to write classes without boilerplate (like magic methods for hashing, comp
 - [attrs](https://www.attrs.org/en/stable/) - Python 2 compatible dataclasses
 - [pydantic](https://docs.pydantic.dev/latest/) - best lib to write dataclasses which automatically converts raw data to typed data (like converting strings to integers)
 
-## Serialization 
+## Serialization / Parsing
 
 Tools that convert Python data types to text types like JSON, XML, etc.
 
+### JSON
+
 - [cattrs](https://catt.rs/en/stable/) - serialization for attrs-classes
 - [pydantic](https://docs.pydantic.dev/latest/) - builtin serialization
+
+### XML
+
 - [xmltodict](https://github.com/martinblech/xmltodict) - convert XML to Python dict
 - [lxml](https://lxml.de/) - low-level xml parsing
+
+### Dates
+
+- [python-dateutil](https://pypi.org/project/python-dateutil/) - good for date operations like parsing, finding difference, finding end of month, etc.
+
 
 ## Linting 
 
@@ -34,6 +44,8 @@ Tools that analyze and check your code
 - [black](https://black.readthedocs.io/en/stable/) - best code formatter
 
 ## Web Frameworks
+
+Tools for writing servers
 
 - [Flask](https://flask.palletsprojects.com/en/latest/) - minimal web framework, good for simple web apps or Python 2 apps, however has a lot of plugins
 - [Django](https://www.djangoproject.com/) - most popular batteries-included web framework, that loved by it's builtin ORM
@@ -70,8 +82,11 @@ Favourite Flask plugins
 Tools for working with files like Excel, PDF, Word, images
 
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - best lib to work with Excel files
+- [python-docx](https://python-docx.readthedocs.io/en/latest/) - lib for working with Word docs
+- [docxtpl](https://docxtpl.readthedocs.io/en/latest/) - allows to write Jinja syntax in Word docs
 - [Pillow](https://pillow.readthedocs.io/en/stable/) - most popular lib to work with images
 
 ## Other 
 
 - [psutil](https://pypi.org/project/psutil/) - tool for getting machine metrics like memory and cpu usage
+- [python-dotenv](https://saurabh-kumar.com/python-dotenv/) - .env file parsing
