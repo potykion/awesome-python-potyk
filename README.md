@@ -1,46 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [potyk-awesome-python](#potyk-awesome-python)
-  - [Similar lists](#similar-lists)
-  - [Dataclasses](#dataclasses)
-  - [Serialization](#serialization)
-  - [Web Frameworks](#web-frameworks)
-    - [Flask](#flask)
-    - [Django](#django)
-  - [Databases](#databases)
-  - [Networking (HTTP clients)](#networking-http-clients)
-  - [Security & DevOps](#security--devops)
-  - [Utils](#utils)
-  - [Work with files](#work-with-files)
-    - [Excel (.xlsx)](#excel-xlsx)
-    - [Word (.docx)](#word-docx)
-    - [PDF](#pdf)
-    - [Images](#images)
-  - [Parsing & Scrapping](#parsing--scrapping)
-  - [Other](#other)
-  - [SDK / API wrappers](#sdk--api-wrappers)
-  - [Linting](#linting)
-  - [Testing](#testing)
-    - [Mocking](#mocking)
-    - [pytest](#pytest)
-  - [Documentation](#documentation)
-  - [Starred](#starred)
-    - [AI](#ai)
-    - [Parsing & Scrapping](#parsing--scrapping-1)
-    - [Security & DevOps](#security--devops-1)
-    - [Databases](#databases-1)
-    - [Frontend](#frontend)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # potyk-awesome-python
 
 There are a lot of similar lists, but I want to create my own list to remember which tools I have used or am interested in.
 
-<!--ts-->
-<!--te-->
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 
 ## Similar lists
 
