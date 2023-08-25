@@ -93,6 +93,8 @@ Favourite Flask plugins
 ## Databases
 
 - [peewee](https://github.com/coleifer/peewee) - simplest framework agnostic orm
+- [sqlalchemy](https://www.sqlalchemy.org/) - powerful framework agnostic database toolkit
+- [repka](https://github.com/potykion/repka) - Simple work with db in async style [my own lib 🤓]
 
 ---
 
@@ -183,7 +185,8 @@ Tools that analyze and check your code
 ### Mocking
 
 - [mock](https://docs.python.org/3/library/unittest.mock.html) - python builtin mocking
-- [freezegun](https://github.com/spulec/freezegun) - 
+- [freezegun](https://github.com/spulec/freezegun) - date mocking
+- [responses](https://github.com/getsentry/responses) - requests mock
 
 ### pytest
 
