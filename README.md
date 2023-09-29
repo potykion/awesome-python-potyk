@@ -35,6 +35,8 @@ There are a lot of similar lists, but I want to create my own list to remember w
   - [Security & DevOps](#security--devops-1)
   - [Databases](#databases-1)
   - [Frontend](#frontend)
+- [Videos](#videos)
+  - [Russian](#russian)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
