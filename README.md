@@ -229,3 +229,17 @@ Haven't tried, but intrested
 ### Frontend 
 
 - [pyscript](https://github.com/pyscript/pyscript) - use python in html like javasript
+
+---
+
+## Videos 
+
+> YouTube channels with Python videos like conference talks
+
+### Russian
+
+- [IT.People](https://www.youtube.com/@videoitpeople) - PyCon Russia and other tech conferences
+- [Moscow Python](https://www.youtube.com/@moscowdjangoru) - talks from Moscow Python meetup and other Python stuff like Moscow Python Podcast
+- [Moscow Python Conf](https://www.youtube.com/@PythonChannelRussia/featured) - videos from Moscow Python Conf conference
+- [Computer Science Center](https://www.youtube.com/@CompscicenterRu/featured) - online university computer science lectures including Python
+- [Хитрый Питон](https://www.youtube.com/@user-th6xg5bk4c/featured) - short (~ 10 mins) videos about Python
