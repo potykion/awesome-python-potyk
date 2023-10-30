@@ -97,6 +97,8 @@ Favourite Flask plugins
 - [peewee](https://github.com/coleifer/peewee) - simplest framework agnostic orm
 - [sqlalchemy](https://www.sqlalchemy.org/) - powerful framework agnostic database toolkit
 - [repka](https://github.com/potykion/repka) - Simple work with db in async style [my own lib 🤓]
+- [DuckDB](https://duckdb.org/) - tool for analyzing simple data types like json, csv
+- [dbeaver](https://dbeaver.io/) - open source db expolorer
 
 ---
 
