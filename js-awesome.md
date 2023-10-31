@@ -3,20 +3,22 @@
 Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) I wanna make list of JavaScript & frontend things that I use and like
 
 <!-- TOC -->
+
 * [Awesome Frontend](#awesome-frontend)
-  * [Similar lists](#similar-lists)
-  * [Svelte](#svelte)
-    * [Setup](#setup)
-    * [Components](#components)
-  * [Vue](#vue)
-    * [UI Kit](#ui-kit)
-    * [Components](#components-1)
-  * [Framework Agnostic](#framework-agnostic)
-    * [Components](#components-2)
-    * [UI Kits](#ui-kits)
-  * [Utils](#utils)
-    * [Testing](#testing)
-  * [Alternative frontends](#alternative-frontends)
+    * [Similar lists](#similar-lists)
+    * [Svelte](#svelte)
+        * [Setup](#setup)
+        * [Components](#components)
+    * [Vue](#vue)
+        * [UI Kit](#ui-kit)
+        * [Components](#components-1)
+    * [Framework Agnostic](#framework-agnostic)
+        * [Components](#components-2)
+        * [UI Kits](#ui-kits)
+    * [Utils](#utils)
+        * [Testing](#testing)
+    * [Alternative frontends](#alternative-frontends)
+
 <!-- TOC -->
 
 ## Similar lists
@@ -38,7 +40,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 - [svelte-textarea-auto-height](https://www.npmjs.com/package/svelte-textarea-auto-height) - easy auto height textarea
 - [svelte-input-mask](https://github.com/xnimorz/svelte-input-mask) - input for phones, money, etc.
 
-## Vue
+## Vue / Nuxt
 
 ### UI Kit
 
@@ -47,6 +49,10 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### Components
 
 - [formkit](https://formkit.com/) - best lib to deal with forms
+
+### Nuxt
+
+- [nuxt content](https://content.nuxt.com/) - file-based CMS (render markdown into views)
 
 ## Framework Agnostic
 
