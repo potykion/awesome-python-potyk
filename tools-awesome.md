@@ -6,3 +6,8 @@
 
 - [ffmpeg](https://www.ffmpeg.org/) - powerful video and audio converter
 
+## Hosting 
+
+### PAAS
+
+- [Vercel](https://vercel.com/) - developer friendly frontend hosting
