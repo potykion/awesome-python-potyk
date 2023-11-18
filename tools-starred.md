@@ -47,6 +47,7 @@
 ## Diagrams
 
 - [roadmap.sh](https://roadmap.sh/) - roadmap builder
+- [tldraw](https://www.tldraw.com/) - a very good whiteboard
 
 ## Other 
 
