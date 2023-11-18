@@ -45,6 +45,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### UI Kit
 
 - [vuetifyjs](https://vuetifyjs.com/en/) - Material design UI kit
+- [Nuxt UI](https://ui.nuxt.com/) - UI kit based on Tailwind & Headless UI
 
 ### Components
 
@@ -59,6 +60,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### Components
 
 - [swiperjs](https://swiperjs.com/) - carousel / swiper / slider
+- [sweetalert2](https://sweetalert2.github.io/) - beautiful alerts
 
 ### UI Kits
 
