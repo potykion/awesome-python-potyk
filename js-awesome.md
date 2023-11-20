@@ -3,22 +3,21 @@
 Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) I wanna make list of JavaScript & frontend things that I use and like
 
 <!-- TOC -->
-
 * [Awesome Frontend](#awesome-frontend)
-    * [Similar lists](#similar-lists)
-    * [Svelte](#svelte)
-        * [Setup](#setup)
-        * [Components](#components)
-    * [Vue](#vue)
-        * [UI Kit](#ui-kit)
-        * [Components](#components-1)
-    * [Framework Agnostic](#framework-agnostic)
-        * [Components](#components-2)
-        * [UI Kits](#ui-kits)
-    * [Utils](#utils)
-        * [Testing](#testing)
-    * [Alternative frontends](#alternative-frontends)
-
+  * [Similar lists](#similar-lists)
+  * [Svelte](#svelte)
+    * [Setup](#setup)
+    * [Components](#components)
+  * [Vue / Nuxt](#vue--nuxt)
+    * [UI Kit](#ui-kit)
+    * [Components](#components-1)
+    * [Nuxt](#nuxt)
+  * [Framework Agnostic](#framework-agnostic)
+    * [Components](#components-2)
+    * [UI Kits](#ui-kits)
+  * [Utils](#utils)
+    * [Testing](#testing)
+  * [Alternative frontends](#alternative-frontends)
 <!-- TOC -->
 
 ## Similar lists

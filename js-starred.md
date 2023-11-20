@@ -14,13 +14,16 @@
     * [Tools](#tools)
   * [Framework agnostic](#framework-agnostic)
     * [UI-Kit](#ui-kit-1)
+    * [Components](#components-3)
+    * [Utils](#utils)
   * [Tools](#tools-1)
   * [Alternative Runtimes](#alternative-runtimes)
   * [Backend](#backend)
     * [Frameworks](#frameworks)
     * [Databases / ORM](#databases--orm)
   * [Mobile dev](#mobile-dev)
-  * [Utils](#utils)
+  * [Utils](#utils-1)
+  * [Static Site Generator](#static-site-generator)
 <!-- TOC -->
 
 ## Svelte
