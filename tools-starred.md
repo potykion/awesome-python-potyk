@@ -54,3 +54,7 @@
 - [codesnap.dev](https://codesnap.dev/) - code snippet tool
 - [pkgx](https://pkgx.sh/) - run anything tool, like you can run Python / Node / anything without installing it
 - [verto](https://www.verto.sh/) - discover repos with doable issues, good for newbie open source contributors
+
+## Markdown & Editors
+
+- https://github.com/AppFlowy-IO/AppFlowy - OSS Notion alt.
