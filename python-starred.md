@@ -90,6 +90,9 @@ Haven't tried, but intrested
 - [icecream](https://github.com/gruns/icecream) - better `print` alt
 - [pint](https://pint.readthedocs.io/en/stable/) - unit conversion lib
 - [pendulum](https://pendulum.eustace.io/) - datetime lib
+- [fake-useragent](https://github.com/fake-useragent/fake-useragent) - >Up-to-date simple useragent faker with real world database
+
+
 
 ## Other
 
