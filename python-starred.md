@@ -98,4 +98,5 @@ Haven't tried, but intrested
 
 - [rustimport](https://pypi.org/project/rustimport/) - import Rust code from Python
 - [memray](https://github.com/bloomberg/memray) - profiling
+- https://github.com/joerick/pyinstrument - profiling
 - [bpytop](https://github.com/aristocratos/bpytop) - beautiful system monitoring (like CPU, RAM)
