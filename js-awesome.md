@@ -3,22 +3,21 @@
 Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python) I wanna make list of JavaScript & frontend things that I use and like
 
 <!-- TOC -->
-
 * [Awesome Frontend](#awesome-frontend)
-    * [Similar lists](#similar-lists)
-    * [Svelte](#svelte)
-        * [Setup](#setup)
-        * [Components](#components)
-    * [Vue](#vue)
-        * [UI Kit](#ui-kit)
-        * [Components](#components-1)
-    * [Framework Agnostic](#framework-agnostic)
-        * [Components](#components-2)
-        * [UI Kits](#ui-kits)
-    * [Utils](#utils)
-        * [Testing](#testing)
-    * [Alternative frontends](#alternative-frontends)
-
+  * [Similar lists](#similar-lists)
+  * [Svelte](#svelte)
+    * [Setup](#setup)
+    * [Components](#components)
+  * [Vue / Nuxt](#vue--nuxt)
+    * [UI Kit](#ui-kit)
+    * [Components](#components-1)
+    * [Nuxt](#nuxt)
+  * [Framework Agnostic](#framework-agnostic)
+    * [Components](#components-2)
+    * [UI Kits](#ui-kits)
+  * [Utils](#utils)
+    * [Testing](#testing)
+  * [Alternative frontends](#alternative-frontends)
 <!-- TOC -->
 
 ## Similar lists
@@ -45,6 +44,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### UI Kit
 
 - [vuetifyjs](https://vuetifyjs.com/en/) - Material design UI kit
+- [Nuxt UI](https://ui.nuxt.com/) - UI kit based on Tailwind & Headless UI
 
 ### Components
 
@@ -59,6 +59,7 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### Components
 
 - [swiperjs](https://swiperjs.com/) - carousel / swiper / slider
+- [sweetalert2](https://sweetalert2.github.io/) - beautiful alerts
 
 ### UI Kits
 

@@ -14,13 +14,16 @@
     * [Tools](#tools)
   * [Framework agnostic](#framework-agnostic)
     * [UI-Kit](#ui-kit-1)
+    * [Components](#components-3)
+    * [Utils](#utils)
   * [Tools](#tools-1)
   * [Alternative Runtimes](#alternative-runtimes)
   * [Backend](#backend)
     * [Frameworks](#frameworks)
     * [Databases / ORM](#databases--orm)
   * [Mobile dev](#mobile-dev)
-  * [Utils](#utils)
+  * [Utils](#utils-1)
+  * [Static Site Generator](#static-site-generator)
 <!-- TOC -->
 
 ## Svelte
@@ -47,7 +50,6 @@
 ### UI Kit
 
 - [ui-libs](https://ui-libs.vercel.app/) - Vue UI lib comparison tool
-- [Nuxt UI](https://ui.nuxt.com/) - UI kit based on Tailwind & Headless UI
 - [headlessui](https://headlessui.com/) - >Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS
 - [Radix Vue](https://www.radix-vue.com/) - Vue port of Radix UI
 - [quasar](https://quasar.dev/)
@@ -56,8 +58,9 @@
 ### Components
 
 - [vue-email](https://vue-email.vercel.app/) - email builder
-- [novel-vue](https://github.com/naveennaidu/novel-vue) - vue port of novel
+- [novel-vue](https://github.com/naveennaidu/novel-vue) - vue port of [novel](https://novel.sh/)
 - [notivue](https://notivue.pages.dev/) - vue toast notifications
+- [-toast-notification](https://ankurk91.github.io/vue-toast-notification/)
 
 ### Nuxt
 

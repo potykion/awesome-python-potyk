@@ -18,6 +18,8 @@ Haven't tried, but intrested
     * [Mocking](#mocking)
   * [CLI](#cli)
   * [Articles](#articles)
+  * [Utils](#utils-1)
+  * [Other](#other)
 <!-- TOC -->
 
 ## Web Frameworks 
@@ -87,7 +89,14 @@ Haven't tried, but intrested
 
 - [icecream](https://github.com/gruns/icecream) - better `print` alt
 - [pint](https://pint.readthedocs.io/en/stable/) - unit conversion lib
+- [pendulum](https://pendulum.eustace.io/) - datetime lib
+- [fake-useragent](https://github.com/fake-useragent/fake-useragent) - >Up-to-date simple useragent faker with real world database
+
+
 
 ## Other
 
 - [rustimport](https://pypi.org/project/rustimport/) - import Rust code from Python
+- [memray](https://github.com/bloomberg/memray) - profiling
+- https://github.com/joerick/pyinstrument - profiling
+- [bpytop](https://github.com/aristocratos/bpytop) - beautiful system monitoring (like CPU, RAM)
