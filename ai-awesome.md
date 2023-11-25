@@ -17,7 +17,8 @@
 
 ## Image generation
 
-- [shedevrum](https://shedevrum.ai/) - image generator by Yandex
+- [shedevrum](https://shedevrum.ai/) - image generator by Yandex [only mobile app]
+- [bing/images](https://www.bing.com/images/create) - DALL-E 3 image gen by Microsoft
 - [promptchan.ai](https://promptchan.ai/) - NSFW image generator
 
 ## Coding assistence

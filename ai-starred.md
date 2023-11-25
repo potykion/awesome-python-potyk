@@ -16,12 +16,9 @@
 ## Image generation
 
 - [glif.app](https://glif.app/glifs) - AI filters by photo, [images with hidden text](https://glif.app/@fab1an/glifs/clmqp99820001jn0f2xywz250) generator
-- [Fooocus](https://github.com/lllyasviel/Fooocus) - open source image generator
 - [vizcom.ai](https://www.vizcom.ai/) - sketch to render gen
 - [app.runwayml.com](https://app.runwayml.com/login) - image to video
-- [dream.ai](https://dream.ai/) - image gen from Wombo
 - [Microsoft Designer](https://designer.microsoft.com/) - AI design gen
-- [gettyimages.nl/ai](https://www.gettyimages.nl/ai/generatie/over) - image generator by Getty Images
 - [emojis.sh](https://emojis.sh/) - AI Emojis
 
 ## Coding assistence
