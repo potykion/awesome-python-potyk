@@ -77,7 +77,7 @@ Haven't tried, but intrested
 
 - [pysentation](https://github.com/mimseyedi/pysentation) - presentations in terminal
 - [pyflyby](https://deshaw.github.io/pyflyby/) - automatically import packages in terminal & tidy imports in files
-- [sh](https://sh.readthedocs.io/en/latest/) - subprocess alt
+- [sh](https://sh.readthedocs.io/en/latest/) - subprocess alt [NO WINDOWS SUP]
 - [shshsh](https://github.com/zqqqqz2000/shshsh) - yet another subprocess alt
 - [textualize](https://www.textualize.io/) - TUI framework
 
