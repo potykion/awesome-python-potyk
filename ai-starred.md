@@ -23,6 +23,10 @@
 
 ## Coding assistence
 
+### Code review
+
+- https://github.com/marketplace/django-doctor
+
 ### Tools 
 
 - [llm-vscode](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) - new Hugging Face VSCode coding assistant
