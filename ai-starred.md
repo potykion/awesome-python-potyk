@@ -43,4 +43,9 @@
 
 - [magentic](https://github.com/jackmpcollins/magentic) - >Seamlessly integrate LLMs as Python functions
 
-- 
+### Frontend generator
+
+- [tldraw](https://www.tldraw.com/) - whiteboard with AI features
+  - [drawfast.tldraw](https://drawfast.tldraw.com/) - image generation by sketchy drawings
+  - [makereal.tldraw](https://makereal.tldraw.com/) - generate frontend from diagrams [Open API key required]
+ - [v0.dev](https://v0.dev/) - generate UI by prompts
