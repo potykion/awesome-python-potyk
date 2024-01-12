@@ -28,7 +28,7 @@
 ### Clients
 
 - [dbeaver](https://dbeaver.io/) - open source db expolorer
-- [harlequin](https://github.com/tconbeer/harlequin) - terminal DuckDB IDE
+- [harlequin](https://github.com/tconbeer/harlequin) - terminal SQL IDE
 
 ## BAAS (Backend as a Service)
 
@@ -54,7 +54,10 @@
 - [codesnap.dev](https://codesnap.dev/) - code snippet tool
 - [pkgx](https://pkgx.sh/) - run anything tool, like you can run Python / Node / anything without installing it
 - [verto](https://www.verto.sh/) - discover repos with doable issues, good for newbie open source contributors
+- [difftastic](https://difftastic.wilfred.me.uk/) - >Difftastic is a CLI diff tool that compares files based on their syntax, not line-by-line
+    - Syntax (git) diff instead of lines
 
 ## Markdown & Editors
 
 - https://github.com/AppFlowy-IO/AppFlowy - OSS Notion alt.
+

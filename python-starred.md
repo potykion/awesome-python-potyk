@@ -19,6 +19,8 @@ Haven't tried, but intrested
   * [CLI](#cli)
   * [Articles](#articles)
   * [Utils](#utils-1)
+  * [UI](#ui)
+  * [Documents](#documents)
   * [Other](#other)
 <!-- TOC -->
 
@@ -32,6 +34,8 @@ Haven't tried, but intrested
 #### Utils
 
 - [humanize](https://docs.djangoproject.com/en/4.2/ref/contrib/humanize/) - turns numbers into words
+- [falco](https://falco.oluwatobi.dev/) - CLI & Guides how to write Django Apps
+  - CLI: CRUD generation, .evn sync, htmx installation and more
 
 #### Frontend
 
@@ -93,6 +97,15 @@ Haven't tried, but intrested
 - [fake-useragent](https://github.com/fake-useragent/fake-useragent) - >Up-to-date simple useragent faker with real world database
 
 
+## UI
+
+- [Flet](https://flet.dev/) - Python-Flutter UI Framework
+  - [Python Tutorial: Full To Do App With Flet & SQLite3](https://www.youtube.com/watch?v=qRqxAUC_4oA)
+
+## Documents
+
+- [python-calamine](https://github.com/dimastbk/python-calamine) - fast Excel reading   
+  - [Article: Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python) 
 
 ## Other
 

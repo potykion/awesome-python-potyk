@@ -49,6 +49,10 @@ Same as [potyk-awesome-python](https://github.com/potykion/potyk-awesome-python)
 ### Components
 
 - [formkit](https://formkit.com/) - best lib to deal with forms
+  - Including form creation from json, custom input registering
+- [toast-notification](https://ankurk91.github.io/vue-toast-notification/) - ok lib for toast notifications
+- [maska](https://beholdr.github.io/maska/#/) - masks for inputs
+
 
 ### Nuxt
 

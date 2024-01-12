@@ -5,7 +5,10 @@
   * [Chat](#chat)
   * [Image generation](#image-generation)
   * [Coding assistence](#coding-assistence)
+    * [Code review](#code-review)
     * [Tools](#tools-)
+    * [Python-related](#python-related)
+    * [Frontend generator](#frontend-generator)
 <!-- TOC -->
 
 ## Chat
@@ -43,6 +46,7 @@
 ### Python-related
 
 - [magentic](https://github.com/jackmpcollins/magentic) - >Seamlessly integrate LLMs as Python functions
+- [google/generative-ai-python](https://github.com/google/generative-ai-python) - google ai python sdk
 
 ### Frontend generator
 

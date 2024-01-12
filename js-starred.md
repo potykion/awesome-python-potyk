@@ -10,6 +10,7 @@
   * [Vue / Nuxt](#vue--nuxt)
     * [UI Kit](#ui-kit)
     * [Components](#components-2)
+      * [Charts](#charts)
     * [Nuxt](#nuxt)
     * [Tools](#tools)
   * [Framework agnostic](#framework-agnostic)
@@ -44,6 +45,7 @@
 
 - [novel.sh](https://novel.sh/) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [triplex](https://triplex.dev/) - 3D editor
+- [Plate](https://platejs.org/) - The rich-text editor framework for React.
 
 ## Vue / Nuxt
 
@@ -60,7 +62,11 @@
 - [vue-email](https://vue-email.vercel.app/) - email builder
 - [novel-vue](https://github.com/naveennaidu/novel-vue) - vue port of [novel](https://novel.sh/)
 - [notivue](https://notivue.pages.dev/) - vue toast notifications
-- [-toast-notification](https://ankurk91.github.io/vue-toast-notification/)
+- [floating-vue](https://floating-vue.starpad.dev/) - Tooltips & dropdowns made easy
+
+#### Charts
+
+- [vue-chartjs](https://vue-chartjs.org/)
 
 ### Nuxt
 
@@ -81,6 +87,9 @@
 ### Components
 
 - [tanstack](https://tanstack.com/) - framework agnostic components like Table, Forms
+- [sonner](https://sonner.emilkowal.ski/) - An opinionated toast component for React.
+  - [Vue port](https://vue-sonner.vercel.app/)
+  - [Svelte port](https://svelte-sonner.vercel.app/)
 
 ### Utils
 
