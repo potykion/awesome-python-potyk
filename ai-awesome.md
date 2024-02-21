@@ -11,6 +11,8 @@
     * [Language Support](#language-support)
 <!-- TOC -->
 
+- https://theresanaiforthat.com/ - ai tools explorer, search ai for your task
+
 ## Chat
 
 - [**bard**](https://bard.google.com/chat) - chat by Google [VPN required]
@@ -19,6 +21,14 @@
 ## Image identify
 
 - [**bard**](https://bard.google.com/chat) - chat by Google [VPN required]
+
+## Image Editing
+
+- [clipdrop](https://clipdrop.co/) - remove bg, object removal, face swap and more (has free tier)
+
+## Translation
+
+- https://www.deepl.com/translator
 
 ## Image generation
 
